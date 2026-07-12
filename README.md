@@ -27,12 +27,12 @@ multimodal traces and root-cause classification.
 ## Dataset Illustration
 
 <p align="center">
-  <img src="assets/figures/dataset_illustration.svg" alt="Who&When Pro dataset composition across source benchmarks, task categories, and modalities" width="100%">
+  <img src="assets/figures/dataset_illustration.png" alt="Who&When Pro dataset composition across source benchmarks, task categories, and modalities" width="100%">
 </p>
 
-The inner ring groups the 26 source benchmarks into nine task categories, while
-the outer ring maps each benchmark to its modality. A print-quality version is
-available as [PDF](assets/figures/dataset_illustration.pdf).
+**Figure 1: Who&When Pro dataset illustration.** The inner ring groups the 26
+source benchmarks into nine task categories, while the outer ring maps each
+benchmark to its modality.
 
 ## Benchmark Tasks
 
