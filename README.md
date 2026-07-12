@@ -4,15 +4,15 @@
 
 ### Can LLMs Really Attribute Failures in AI Agents?
 
-Jiale Liu<sup>1</sup>, Huajun Xi<sup>2</sup>, Shaokun Zhang<sup>1</sup>,
-Yifan Zeng<sup>3</sup>, Tianwei Yue<sup>4</sup>, Chi Wang<sup>5</sup>,
-Jian Kang<sup>2</sup>, Huazheng Wang<sup>3</sup>, Qingyun Wu<sup>1</sup>
+Jiale Liu<sup>1,2</sup>, Huajun Xi<sup>3</sup>, Shaokun Zhang<sup>1</sup>,
+Yifan Zeng<sup>4</sup>, Tianwei Yue<sup>5</sup>, Chi Wang<sup>2</sup>,
+Jian Kang<sup>3</sup>, Qingyun Wu<sup>1,2</sup>, Huazheng Wang<sup>2,4</sup>
 
 <sup>1</sup>Penn State University &nbsp;&nbsp;
-<sup>2</sup>MBZUAI &nbsp;&nbsp;
-<sup>3</sup>Oregon State University &nbsp;&nbsp;
-<sup>4</sup>Mathos AI &nbsp;&nbsp;
-<sup>5</sup>Google DeepMind
+<sup>2</sup>AG2ai, Inc. &nbsp;&nbsp;
+<sup>3</sup>Mohamed bin Zayed University of Artificial Intelligence &nbsp;&nbsp;
+<sup>4</sup>Oregon State University &nbsp;&nbsp;
+<sup>5</sup>Mathos AI
 
 [Project page](https://whowhenpro.github.io/) · Paper (coming soon) · Dataset (coming soon)
 
@@ -95,4 +95,3 @@ Citation information will be added when the paper is released.
 ## Contact
 
 For questions or release notifications, please open a GitHub issue.
-
